@@ -1,13 +1,21 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+FN:Brian Houlahan
 N:Houlahan;Brian;;;
-FN: Houlahan  Brian 
-ORG:Fortune Management;
-TITLE:Managing Partner\nConnecticut
-EMAIL;type=INTERNET;type=WORK;type=pref:brianhoulahan@fortunemgmt.com
-TEL;type=WORK;type=VOICE:2033470391
-item1.X-ABADR:sg
-item2.URL;type=pref:fortunemgmt.com
-item2.X-ABLabel:_$!<HomePage>!$_
+EMAIL;TYPE=INTERNET;TYPE=WORK:brianhoulahan@fortunemgmt.com
+TEL;TYPE=WORK:203-347-0391
+item1.ORG:Fortune Management
+item1.X-ABLabel:
+item2.TITLE:Managing Partner\, CT
+item2.X-ABLabel:
+BDAY:--0316
+item3.URL:https\://fortunemgmt.com
+item3.X-ABLabel:homePage
+item4.URL:facebook.com/fortunemgmtinc
+item4.X-ABLabel:Facebook
+item5.URL:www.linkedin.com/in/brianhoulahan
+item5.X-ABLabel:LinkedIn
+NOTE:Extraordinary Practice\, Extraordinary Life
+PHOTO:https://lh4.googleusercontent.com/-ykbCpCmI2AY/XYptXar4e9I/AAAAAAAAAA
+ A/21XWSs3Mjz8ywPewOp_Du4vfAYHivYfQACOQCEAE/photo.jpg
 END:VCARD
