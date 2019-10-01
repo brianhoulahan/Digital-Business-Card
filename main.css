@@ -8,8 +8,8 @@ body {
 
 section {
 	display: block;
-	padding-left: 0.rem;
-	padding-right: 0.rem;
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
 	height: auto;
 }
 
@@ -25,8 +25,8 @@ img {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-    max-height: auto;
-    max-width: auto;
+    max-height: 100%;
+    max-width: 100%;
     height: auto;
     width: auto;
     object-fit: contain;
@@ -36,8 +36,10 @@ img.profile-pic {
 	height: 30%;
 	width: 30%;
 	object-fit: cover;
-	border-radius: 0%;
+	border-radius: 50%;
 }
+
+.container {
 	margin: 0 auto;
 	position: relative;
 	height: 100%;
@@ -144,21 +146,21 @@ img.profile-pic {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #333333;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
     color: #333333;
-    font-size: 16px;
+    font-size: 12px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #0D1F8F;
-    font-size: 14px;
+    color: #575757;
+    font-size: 12px;
 }
 
 .bottom {
@@ -166,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #0D1F8F;
+	background-color: #219653;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
